@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name='EventPipe Python Client',
+    name='eventpipe-python-client',
     version='0.1.0',
     url='https://github.com/bcambel/event-pipe-client-py/',
     license='Unlicense',
@@ -21,7 +21,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: BSD License',
+        'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
